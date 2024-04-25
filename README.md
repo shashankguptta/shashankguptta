@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **PYTHON**
 
-- 💬 Ask me about **INVESTMENT||PYTHON**
+- 💬 Ask me about **INVESTMENT||  PYTHON || PINE SCRIPT || **
 
 - 📫 How to reach me **shashankoo2022@gmail.com**
 
