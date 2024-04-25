@@ -1,6 +1,6 @@
 <img align="center" width="50%" alt="" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/cdr.gif" />
 <h1 align="center">Hi 👋, I'm SHASHANK GUPTTA</h1>
-<h3 align="center">A passionate FINANCIAL_TECHNICAL_ANALYST||DATA||CLOUD||PYTHON.</h3>
+<h3 align="center">A passionate || FINANCIAL_TECHNICAL_ANALYST || DATA || CLOUD || PYTHON || LEARNER .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashankguptta&label=Profile%20views&color=0e75b6&style=flat" alt="shashankguptta" /> </p>
 
